@@ -4,9 +4,7 @@
 
 After successful installation of free5gc and Ueransim, To start IDLE condition follow below procedure:
 
-Firstly ssh in free5gc and run web-console in one terminal and stop it using ctrl+c and in the same terminal.
-
-1. shh into free5gc in 3 individual terminals for.
+1. ssh into free5gc in 3 individual terminals for.
 *	Webconsole
 *	To run free5gc
 *	tcpdump
@@ -57,7 +55,7 @@ Now stop the UE, GNB and tcpdump in order by using ctrl+c in the respective term
 
 After successful installation of free5gc and Ueransim, To start PDU Session Release condition follow below procedure:
 
-1. shh into free5gc in 3 individual terminals for.
+1. ssh into free5gc in 3 individual terminals for.
 *	Webconsole
 *	To run free5gc
 *	tcpdump
